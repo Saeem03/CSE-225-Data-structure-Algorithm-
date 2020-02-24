@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1582323030 source:d:\prob\secondtask\main.cpp
+	<iostream>
+	"Md_Saeem_Hossain_Shanto_1912218642.cpp"
+	"Md_Saeem_Hossain_Shanto_1912218642_timestamp.cpp"
+
+1582319415 d:\prob\secondtask\md_saeem_hossain_shanto_1912218642.cpp
+	"Md_Saeem_Hossain_Shanto_1912218642.h"
+
+1582319341 d:\prob\secondtask\md_saeem_hossain_shanto_1912218642.h
+
+1582323030 d:\prob\secondtask\md_saeem_hossain_shanto_1912218642_timestamp.cpp
+	"Md_Saeem_Hossain_Shanto_1912218642_timestamp.h"
+	<iomanip>
+
+1582321730 d:\prob\secondtask\md_saeem_hossain_shanto_1912218642_timestamp.h
+	<iostream>
+
+1582323030 source:d:\prob\lab5\main.cpp
+	<iostream>
+	"Md_Saeem_Hossain_Shanto_1912218642.cpp"
+	"Md_Saeem_Hossain_Shanto_1912218642_timestamp.cpp"
+
+1582319415 d:\prob\lab5\md_saeem_hossain_shanto_1912218642.cpp
+	"Md_Saeem_Hossain_Shanto_1912218642.h"
+
+1582319341 d:\prob\lab5\md_saeem_hossain_shanto_1912218642.h
+
+1582323030 d:\prob\lab5\md_saeem_hossain_shanto_1912218642_timestamp.cpp
+	"Md_Saeem_Hossain_Shanto_1912218642_timestamp.h"
+	<iomanip>
+
+1582321730 d:\prob\lab5\md_saeem_hossain_shanto_1912218642_timestamp.h
+	<iostream>
+
