@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1583188102 source:d:\prob\before exam practice\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1583010001 d:\prob\before exam practice\dynarr.cpp
+	"dynarr.h"
+
+1583009636 d:\prob\before exam practice\dynarr.h
+
+1583011124 d:\prob\before exam practice\complex.cpp
+	"complex.h"
+	<iostream>
+
+1583010478 d:\prob\before exam practice\complex.h
+
+1583155875 d:\prob\before exam practice\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1583155914 d:\prob\before exam practice\stacktype.h
+
