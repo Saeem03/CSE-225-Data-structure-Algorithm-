@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583418014 source:d:\prob\sorted list assignment\main.cpp
+	<iostream>
+	"SortedList.cpp"
+
+1583417963 d:\prob\sorted list assignment\sortedlist.cpp
+	"SortedList.h"
+	<iostream>
+	<cstddef>
+
+1583416544 d:\prob\sorted list assignment\sortedlist.h
+	<iostream>
+
