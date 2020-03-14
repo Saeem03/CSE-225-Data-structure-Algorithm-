@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582605299 source:d:\prob\lab8\main.cpp
+	<iostream>
+	"stacktype.cpp"
+	<string>
+
+1582559695 d:\prob\lab8\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1582559707 d:\prob\lab8\stacktype.h
+
