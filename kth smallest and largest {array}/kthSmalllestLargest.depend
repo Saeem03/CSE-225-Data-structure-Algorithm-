@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584171729 source:d:\prob\kth smallest and largest\main.cpp
+	<iostream>
+
+1584180133 source:d:\prob\kth smallest and largest {array}\main.cpp
+	<iostream>
+
