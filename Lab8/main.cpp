@@ -106,9 +106,12 @@ int main()
                         }
                     else if(!(operators.IsEmpty() || IsHigherPresidence(c2,operators.Top())))
                         {
-                            tempchar=operators.Top();
-                            postfix.Push(tempchar);
-                            operators.Pop();
+                        while(IsHigherPresidence(c2,operators.Top())
+                              {
+                                  tempchar=operators.Top();
+                                  postfix.Push(tempchar);
+                                  operators.Pop();
+                              }
                             operators.Push(c2);
                         }
                     else
@@ -125,7 +128,7 @@ int main()
             if(tempchar=='(')
                 {
                     valid=false;
-
+                    break;
                 }
             postfix.Push(tempchar);
             operators.Pop();
