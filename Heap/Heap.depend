@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586246443 source:d:\prob\heap\main.cpp
+	<iostream>
+	"pqtype.cpp"
+
+1586243935 d:\prob\heap\pqtype.cpp
+	"pqtype.h"
+
+1586244049 d:\prob\heap\pqtype.h
+	"heaptype.cpp"
+
+1586243840 d:\prob\heap\heaptype.cpp
+	"Heaptype.h"
+
+1586243948 d:\prob\heap\heaptype.h
+
