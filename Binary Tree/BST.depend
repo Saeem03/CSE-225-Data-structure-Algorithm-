@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1586007993 source:e:\cse 225-updated\labsolution\bst\binarysearchtree.cpp
+	"Binarysearchtree.h"
+	"QueType.cpp"
+	<iostream>
+
+1586008074 e:\cse 225-updated\labsolution\bst\binarysearchtree.h
+	"QueType.h"
+
+1586008074 e:\cse 225-updated\labsolution\bst\quetype.h
+
+1586007842 e:\cse 225-updated\labsolution\bst\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1586007842 source:e:\cse 225-updated\labsolution\bst\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1586010431 source:e:\cse 225-updated\labsolution\bst\main.cpp
+	"Binarysearchtree.cpp"
+	<iostream>
+
+1586007993 e:\cse 225-updated\labsolution\bst\binarysearchtree.cpp
+	"Binarysearchtree.h"
+	"QueType.cpp"
+	<iostream>
+
+1586237761 source:c:\users\user\desktop\bst\binarysearchtree.cpp
+	"Binarysearchtree.h"
+	"QueType.cpp"
+	<iostream>
+
+1586237777 c:\users\user\desktop\bst\binarysearchtree.h
+	"QueType.h"
+
+1586008074 c:\users\user\desktop\bst\quetype.h
+
+1586007842 c:\users\user\desktop\bst\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1586007842 source:c:\users\user\desktop\bst\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1586198795 source:c:\users\user\desktop\bst\main.cpp
+	"Binarysearchtree.cpp"
+	<iostream>
+	<array>
+
+1586237761 c:\users\user\desktop\bst\binarysearchtree.cpp
+	"Binarysearchtree.h"
+	"QueType.cpp"
+	<iostream>
+
