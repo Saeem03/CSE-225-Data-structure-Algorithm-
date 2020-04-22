@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1587547648 source:d:\prob\graph\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1587547648 d:\prob\graph\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1587319848 d:\prob\graph\stacktype.h
+
+1587020752 d:\prob\graph\quetype.h
+
+1587020919 d:\prob\graph\stacktype.cpp
+	"StackType.h"
+
+1587020891 d:\prob\graph\quetype.cpp
+	"quetype.h"
+
+1587547652 source:d:\prob\graph\main.cpp
+	<iostream>
+	"graphtype.cpp"
+
+1587547648 d:\prob\graph\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1587020891 source:d:\prob\graph\quetype.cpp
+	"quetype.h"
+
+1587020919 source:d:\prob\graph\stacktype.cpp
+	"StackType.h"
+
