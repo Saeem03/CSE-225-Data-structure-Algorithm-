@@ -6,8 +6,6 @@ int sum(int x)
         return 1;
     else
     {
-        printf("going ");
-
         return ((2*x-1)*(2*x-1) + sum (x-1));
     }
 }
